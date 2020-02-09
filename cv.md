@@ -15,6 +15,9 @@
 5. Experience:  
     Will be a bit later))
 6. Education:
-
+    * HTML academy (id1105217);
+    * CS50;
+    * freecodecamp.com (@maksimdiubo);
+    * learn.javascript.com (basic);
 7. English level:
     * A2 (pre-Intermediate). I am currently attending English classes.
